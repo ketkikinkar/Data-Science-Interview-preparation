@@ -1,3 +1,3 @@
-# iNeuron_Data-Science-Interview-Questions
+# Data Science Interview Questions day-wise topics
 
 ## Day1: 
